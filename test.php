@@ -8,7 +8,6 @@
 <?php 
 phpinfo();
 //echo '<iframe src="//www.youtube.com/embed/C8kSrkz8Hz8"></iframe>';
-echo '<a href="//api.eenadu.net/app_page.php?newsid=25718&type=1&section=1600&stateid=,99,1,25,&videolink=&sdrtype=en">link</a>';
 //header("Location: http://api.eenadu.net/app_page.php?newsid=25718&type=1&section=1600&stateid=,99,1,25,&videolink=&sdrtype=en");
 //echo mime_content_type("harsha.php");
 
